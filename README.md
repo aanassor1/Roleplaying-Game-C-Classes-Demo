@@ -1,7 +1,8 @@
 # Roleplaying Game C++ Classes Demo
 
 ## Author
-Abdul-Aziz Nassor
+Abdul-Aziz Nassor - Game.cpp,  Game.h
+Dr. Stanley Fung - GameTester.cpp, GameTester.h, GameTesterMain.cpp, main.cpp, makefile
 
 ## Description 
 
