@@ -6,12 +6,16 @@ Dr. Stanley Fung - GameTester.cpp, GameTester.h, GameTesterMain.cpp, main.cpp, m
 
 ## Description 
 
-This is simply just a demo where I created classes and objects for a roleplaying game that is provided by the university.
+This is simply just a demo where I created classes and objects for a roleplaying game.
 
 These classes will have basic variables such as names, etc. as well as some basic interactions. Inheritance classes was used to create these classes. The hierarchy of the inheritance classes is shown below.
 
 ![A screenshot showing the hierarchy of the classes](https://github.com/aanassor1/Roleplaying-Game-C-Classes-Demo/blob/main/Classes%20Hierarchy.png)
 
+## What I learnt
+* C++ Classes
+* C++ Inheritence Classes
+  
 ## Installation
 
 Go onto Github, find the project and clone the repository.
