@@ -13,8 +13,11 @@ These classes will have basic variables such as names, etc. as well as some basi
 ![A screenshot showing the hierarchy of the classes](https://github.com/aanassor1/Roleplaying-Game-C-Classes-Demo/blob/main/Classes%20Hierarchy.png)
 
 ## What I learnt
-* C++ Classes
-* C++ Inheritence Classes
+* Classes
+* Inheritence Classes
+* Objects
+* Pointers
+* Fixing memory leaks
   
 ## Installation
 
